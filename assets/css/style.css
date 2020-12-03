@@ -78,6 +78,11 @@ h2 {
 
 img {
   border: none;
+    border: none;
+}
+.logo {
+  margin-top: -9px;
+  margin-left: 26px;
 }
 
 .mu-read-more-btn {
