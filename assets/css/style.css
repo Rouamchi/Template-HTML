@@ -279,21 +279,7 @@ img {
 .scrollToTop:focus {
   color: #fff;
 }
-.material-icons {
-  font-family: 'Material Icons'!important;
-  font-weight: normal;
-  font-style: normal;
-  font-size: 15px;
-  line-height: 1;
-  letter-spacing: normal;
-  text-transform: none;
-  display: inline-block;
-  white-space: nowrap;
-  word-wrap: normal;
-  direction: ltr;
-  -webkit-font-feature-settings: 'liga';
-  -webkit-font-smoothing: antialiased;
-}s
+
 #mu-abtus-counter {
   background-image: url(../img/counter-bg.jpg);
   background-repeat: no-repeat;
@@ -578,7 +564,7 @@ img {
 }
 .mu-title p {
   color: #555;
-  letter-spacing: 0.3px;
+  letter-spacing: 4.3px
   line-height: 1.7;
   padding: 0 120px;
 }
@@ -699,6 +685,10 @@ img {
  LATEST COURSES SECTION
 ====================*/
 #mu-latest-courses {
+  background-attachment: fixed;
+  background-image: url("../img/Background-FIXE.jpg");
+  background-position: center center;
+  background-size: cover;
   background-color: #333;
   display: inline;
   float: left;
