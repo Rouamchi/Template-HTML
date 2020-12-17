@@ -207,16 +207,27 @@
           </div>
           <!-- end title -->
           <!-- start contact content -->
+          <style>
+.gfield {
+    background: #ffffff;
+    border: solid 1px rgba(225,225,225,0.85);
+    border-radius: 0;
+    color: #4d4d4d !important;
+    font-weight: 700 !important;
+    letter-spacing: 1px !important;
+    padding: 17px 15px !important;
+    width: 100% !important;
+}
+
+          </style>
           <div class="mu-contact-content">           
             <div class="row">
               <div class="col-md-6">
                 <div class="mu-contact-left">
                   <form class="contactform"> 
                     <p class="comment-form-author">
-                      <label for="author"> School <span class="required">*</span></label>
-                      <input type="text" required="required" size="30" value="" name="author">
-                      <option value="Casablanca">Casablanca</option><option value="Rabat">Rabat</option>
-                      <!-- <div class="ginput_container ginput_container_select"><select name="input_6" id="input_1_6" class="medium gfield_select" aria-required="true" aria-invalid="false"><option value="Casablanca">Casablanca</option><option value="Rabat">Rabat</option></select></div> -->
+                      <label for="author"> School<span class="required">*</span></label>
+                      <select class="gfield"><option value="Casablanca">Casablanca</option><option value="Rabat">Rabat</option></select>
                     </p>             
                     <p class="comment-form-author">
                       <label for="author"> Full Name <span class="required">*</span></label>

@@ -1150,6 +1150,9 @@ hr {
   border: 0;
   border-top: 1px solid #eee;
 }
+.child-categories{
+margin-left: 20px;
+}
 .sr-only {
   position: absolute;
   width: 1px;
@@ -1600,7 +1603,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+    width: 1300px;
   }
 }
 .container-fluid {
