@@ -387,8 +387,9 @@ img {
   top: 20%;
   padding: 0 15%;
   width: 100%;
-  text-align: right;
+  text-align: center;
   height: 100%;
+  margin-left: 260px;
 }
 #mu-slider .mu-slider-single .mu-slider-content h4 {
   letter-spacing: 1px;
@@ -1171,7 +1172,7 @@ img {
 #mu-course-content .mu-course-content-area .mu-course-container {
   display: inline;
   float: left;
-  width: 100%;
+  width: 90%;
 }
 #mu-course-content .mu-course-content-area .mu-course-container .mu-latest-course-single {
   border: 1px solid #ccc;
@@ -1189,9 +1190,11 @@ img {
   margin-bottom: 25px;
   padding: 0 10px 10px;
   width: 100%;
+  float: right;
+  width: 370px;
 }
 #mu-course-content .mu-course-content-area .mu-sidebar .mu-single-sidebar .mu-sidebar-catg {
-  padding-left: 15px;
+  padding-left: 40px;
 }
 #mu-course-content .mu-course-content-area .mu-sidebar .mu-single-sidebar .mu-sidebar-catg li a {
   color: #333;
@@ -2063,7 +2066,7 @@ img {
   }
 
   #mu-slider .mu-slider-single .mu-slider-content h2 {
-    font-size: 35px;
+    font-size: 31px;
     line-height: 65px;
     margin-bottom: 0;
   }
@@ -2079,7 +2082,7 @@ img {
   }
 
   #mu-slider .mu-slider-single .mu-slider-content p {
-    font-size: 16px;
+    font-size: 13px;
     line-height: 1.5;
   }
 
