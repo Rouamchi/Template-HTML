@@ -237,14 +237,26 @@ Author URI : http://www.markups.io/
 #mu-footer .mu-footer-top .mu-footer-top-area .mu-footer-widget .mu-subscribe-form .mu-subscribe-btn {
   background-color: #01bafd;
 }
+
+
+/* #mu-news .mu-news-area .mu-news-content {
+  width: 100%;
+}
 #mu-news .mu-news-area .mu-news-content .mu-news-top ul li {
   background-color: #01bafd;
   border: 1px solid #01bafd;
+}
+#mu-news .mu-news-area .mu-news-content .mu-news-top ul li:hover, #mu-news .mu-news-area .mu-news-content .mu-news-top ul li:focus {
+  color: #01bafd;
+  border-color: #01bafd;
 }
 #mu-news .mu-news-area .mu-news-content .mu-news-top ul .active {
   color: #01bafd;
   border-color: #01bafd;
 }
+#mu-news .mu-news-area .mu-news-content .mu-news-body ul li .mu-single-news .mu-single-news-item .mu-single-news-info .mu-single-news-info-inner a {
+  background-color: #01bafd;
+} */
 /*=======================================
 Template Design By MarkUps.
 Author URI : http://www.markups.io/
