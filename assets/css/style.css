@@ -1546,11 +1546,11 @@ img {
   border: 1px solid #888;
   color: #333;
   display: inline-block;
-  font-size: 15px;
+  font-size: 13px;
   line-height: 13px;
   margin-bottom: 10px;
-  margin-top: 20px;
-  padding: 8px 15px;
+  margin-top: 10px;
+  padding: 4px 10px;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   -ms-transition: all 0.5s;
@@ -1589,6 +1589,12 @@ img {
 }
 .mu-comments-area .comments .comments-pagination li {
   display: inline-block;
+  border: 1px solid #fff;
+  display: inline-block;
+  margin-top: 9px;
+  margin-block-end: -12px;
+  margin-inline: 4px;
+  background-color: #01bafd;
 }
 .mu-comments-area .comments .comments-pagination li a {
   background-color: transparent;
